@@ -224,6 +224,10 @@ A separate alert fires if the web category could not be matched from the Excel s
 
 ---
 
+## Workflow
+
+![AlterEco](assets/workflow.png)
+
 ## Note on Code
 
 This repository contains architecture documentation and representative code snippets. Full source is not published to protect client configuration and Drupal endpoint details.
