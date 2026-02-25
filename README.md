@@ -236,5 +236,5 @@ This repository contains architecture documentation and representative code snip
 
 ## Related
 
-- [Soccer Verdun AI Support](https://github.com/danisola/soccer-verdun-ai) — multi-tool RAG agent for multilingual customer support
-- [WorkflowSynth](https://github.com/danisola/workflowsynth) — MSc research on automated AI workflow discovery
+- [Soccer Verdun AI Support](https://github.com/daniszwarc/soccer-verdun-ai) — multi-tool RAG agent for multilingual customer support
+- [WorkflowSynth](https://github.com/daniszwarc/workflowsynth) — MSc research on automated AI workflow discovery
